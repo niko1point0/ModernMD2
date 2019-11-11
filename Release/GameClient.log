@@ -1,0 +1,13 @@
+﻿  0_0_0.cpp
+  0_0_1.cpp
+  0_1_0.cpp
+  0_1_1.cpp
+  1_0_0.cpp
+  1_0_1.cpp
+  1_1_0.cpp
+  1_1_1.cpp
+  main.cpp
+  Generating code
+  All 52 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameClient.vcxproj -> C:\Users\Niko\Desktop\ModernMD2\Release\GameClient.exe
